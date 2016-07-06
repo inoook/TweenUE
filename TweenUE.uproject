@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.11",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LogitechG",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/168a361cd05943358dff438115c5d1c2"
+		},
+		{
+			"Name": "LowEntryExtendedStandardLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/846c2ad08f164f45b0335ecebf85361e"
+		}
+	]
+}
